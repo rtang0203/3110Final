@@ -1,0 +1,98 @@
+/** [compare_pos p1 p2] is [-1] if [p1] is lexicographically before [p2],
+  * [0] if they are equal, and [1] if [p1] is lexicographically after [p2].
+  * Requires:
+  * - [p1] and [p2] are pairs of integers representing 2D coordinates.
+  */
+let compare_pos (x1, y1) (x2, y2) =
+  if x1 < x2 then -1
+  else if x1 > x2 then 1
+  else if y1 < y2 then -1
+  else if y1 > y2 then 1
+  else 0
+in
+
+/** [compare_dist p] is a comparison function [compare p1 p2] that
+  * compares points [p1] and [p2] by their distance to [p].
+  * Returns:
+  * - Integer [d] such that [d < 0] if [p1] is closer to [p] than [p2],
+  *   [d = 0] if they are equidistant, and [d > 0] if [p1] is farther away.
+  * Requires:
+  * - [p], [p1], and [p2] are pairs of integers representing 2D coordinates.
+  */
+let compare_dist (x, y) (x1, y1) (x2, y2) =
+  let abs x = if x < 0 then -x else x in
+  let d1 = (abs (x1 - x)) + (abs (y1 - y)) in
+  let d2 = (abs (x2 - x)) + (abs (y2 - y)) in
+  d1 - d2
+in
+
+/** [rectangle width height] is an association list mapping every
+  * position from [(0, 0)] to [(width - 1, height - 1)] to unit [()].
+  * Requires:
+  * - [width] and [height] are positive integers.
+  */
+let rectangle width height =
+  flatten begin
+    map begin fun y ->
+        map begin fun x ->
+        ((x, y), ())
+        end (range width)
+    end (range height)
+  end
+in
+  
+/** [dir_of_int n] is a direction corresponding to integer [n].
+  * Requires:
+  * - [n] is in the range [0..=7].
+  */
+let dir_of_int n =
+  match n with
+  | 0 -> "SW"
+  | 1 -> "NE"
+  | 2 -> "NW"
+  | 3 -> "SE"
+  | 4 -> "N"
+  | 5 -> "S"
+  | 6 -> "E"
+  | 7 -> "W"
+  end
+in
+
+/** [random_dir ()] is a random valid direction that can
+  * be sent to the server for a MOVE or TAKE command.
+  */
+let random_dir () =
+  dir_of_int (random 8)
+in
+
+/** [direction p1 p2] is the direction to move
+  * in order to reach point [p2] from point [p1].
+  */
+let direction (x1, y1) (x2, y2) =
+  let dx = x2 - x1 in
+  let dy = y2 - y1 in
+  if dx < 0 && dy > 0 then "SW" else
+  if dx < 0 && dy = 0 then "W"  else
+  if dx < 0 && dy < 0 then "NW" else
+  if dx = 0 && dy < 0 then "N"  else
+  if dx > 0 && dy < 0 then "NE" else
+  if dx > 0 && dy = 0 then "E"  else
+  if dx > 0 && dy > 0 then "SE" else
+  if dx = 0 && dy > 0 then "S"  else ()
+in
+
+/** [distance p1 p2] is the distance in moves
+  * between points [p1] and [p2].
+  */
+let distance (x1, y1) (x2, y2) =
+  let dx = if x1 > x2 then x1 - x2 else x2 - x1 in
+  let dy = if y1 > y2 then y1 - y2 else y2 - y1 in
+  if dx > dy then dx else dy
+in
+
+/** [adjacent p1 p2] is [true] if [p1] is one
+  * move away from [p2], or [false] otherwise.
+  */
+let adjacent p1 p2 =
+  distance p1 p2 = 1
+in

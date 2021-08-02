@@ -1,0 +1,4 @@
+true: package(oUnit), package(lwt), package(str), package(lwt.unix), package(ppx_deriving_yojson), package(yojson)
+true: package(camomile), package(react), package(lambda-term)
+true: use_menhir
+true: thread

@@ -1,0 +1,63 @@
+include "list.rmx"
+include "map.rmx"
+include "navigate.rmx"
+
+// Receive map information from server
+send ("info", ()) to SERVER;
+await ((width, height), (vision_rad, (robot_cap, max_bots))) = recv SERVER in
+
+// Main entrypoint for each robot
+let main (id, master) =
+
+  /** [listen_bot bot] is an infinite loop of message passing
+    * between [SELF] and [bot] for information exchange.
+    */
+  let rec listen_bot bot =
+    // Sleep a little before looping to prevent excessive CPU usage
+    await _ = sleep 10000 in
+    listen_bot bot
+  in
+
+  /** [listen_server ()] is an infinite loop of communication with [SERVER]
+    * and state-machine based decision logic for this robot.
+    */
+  let rec listen_server () =
+    // Sleep a little before looping to prevent excessive CPU usage
+    await () = sleep 10000 in
+    listen_server ()
+  in
+
+  /***************************************/
+  /*                                     */
+  /*                                     */
+  /* DO NOT MODIFY CODE BELOW THIS LINE. */
+  /*                                     */
+  /*                                     */
+  /***************************************/
+
+  // Start all listening function loops
+  await bots = recv master in
+  let run = map (fun bot -> listen_bot bot) bots in
+  join ((listen_server ()) :: run)
+in
+
+/** [spawn_all n] is an association list of integers to handles:
+  * [[(m1, h1); ...; (mn, hn)]], where each handle [mi] is to a
+  * server running [main] applied to argument [(mi, SELF)].
+  */
+let rec spawn_all n =
+  if n = 0 then [] else (n, spawn main with (n, SELF)) :: (spawn_all (n - 1))
+in
+
+/** [other_than bot bots] is the list of handles [h1; ...; hn] in
+  * association list [bots = [(m1, h1); ...; (mn, hn)]], minus
+  * handle [hi] where [bot = mi].
+  */
+let other_than bot bots =
+  map (fun (_, h) -> h) (filter (fun (bot', _) -> bot <> bot') bots)
+in
+
+// Spawn all bots with appropriate handle lists
+let bots = (0, SELF) :: (spawn_all (max_bots - 1)) in
+let _ = map (fun (bot, h) -> send other_than bot bots to h) bots in
+main (0, SELF)

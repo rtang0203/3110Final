@@ -1,0 +1,3544 @@
+{
+  "width": 42,
+  "height": 21,
+  "max_gold": 50,
+  "max_bots": 1,
+  "end_goal": 100,
+  "max_moves": 300,
+  "teams": [
+    "Blue",
+    "Red"
+  ],
+  "vision": 2,
+  "map": [
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "B",
+      "team": "Blue"
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 10
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "B",
+      "team": "Red"
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "P",
+      "cost": 5
+    },
+    {
+      "type": "G",
+      "amount": 9
+    }
+  ],
+  "moves": []
+}
